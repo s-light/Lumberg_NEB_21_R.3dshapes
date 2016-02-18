@@ -1,3 +1,14 @@
+# old things
+old/
+
+# exclude original datasheets from manufacture
+datasheets_orig/
+
+# FreeCad backupfiles
+*.fcstd1
+*.fcstd2
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
